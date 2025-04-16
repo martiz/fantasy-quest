@@ -1,0 +1,3 @@
+- [ ] collect related info from Boot.Dev environment
+- [ ] write some ideas and define goals
+- [ ] offer insights for others and of course to the devs of Boot.Dev
