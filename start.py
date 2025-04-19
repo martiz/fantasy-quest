@@ -2,6 +2,6 @@ import prelim
 import adventure
 
 def main():
-    pass
+    print("Starting...")
 
 main()
