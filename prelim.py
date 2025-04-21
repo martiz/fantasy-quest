@@ -1,8 +1,4 @@
-def main():
-    boots_company = False
-    if boots_company == True:
-        print("You're not alone.")
-    else:
-        print("You're alone.")
+Yes = "You're not alone."
+No = "You're alone."
 
-main()
+boots_company = No

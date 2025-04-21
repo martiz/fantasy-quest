@@ -1,4 +1,7 @@
-def main():
-    pass
+start = "Starting..."
+journey = "Continuing the journey..."
+goal = "Milestone accomplished..."
+demise = "...perished."
+    
+current_state = journey
 
-main()

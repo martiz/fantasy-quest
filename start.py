@@ -1,7 +1,9 @@
-import prelim
-import adventure
+from prelim import *
+from adventure import *
 
 def main():
-    print("Starting...")
 
+    print(current_state)
+    print(boots_company)
+    
 main()
