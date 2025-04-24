@@ -8,5 +8,6 @@ def main():
     print("╚═══════════════╝")
     print(current_state)
     print(boots_company)
+    print(calling)
     
 main()
