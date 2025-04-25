@@ -7,7 +7,7 @@ def main():
     print("║ Fantasy Quest ║")
     print("╚═══════════════╝")
     print(current_state)
-    print(boots_company)
+    print(company)
     print(calling)
     
 main()
